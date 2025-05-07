@@ -1,0 +1,22 @@
+[
+  {
+    "username": "admin1",
+    "role": "Administrator",
+    "permissions": ["read", "write", "delete", "manage_users"]
+  },
+  {
+    "username": "user1",
+    "role": "User",
+    "permissions": ["read", "write"]
+  },
+  {
+    "username": "guest1",
+    "role": "Guest",
+    "permissions": ["read"]
+  },
+  {
+    "username": "user2",
+    "role": "User",
+    "permissions": ["read", "write", "delete"]
+  }
+]
