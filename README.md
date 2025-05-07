@@ -14,9 +14,9 @@ I'm transitioning into the cybersecurity field, with a focus on Identity and Acc
 
 ## 📁 Subprojetos / Subprojects
 
-- [🔐 IAM (Identity & Access Management)](./Identity&AccessManagement/)
-- [🛡️ Network Security / Segurança de Redes](./network-security/)
-- [🧪 Penetration Testing / Testes de Penetração](./penetration-testing/)
-- [🤖 Security Automation / Automação em Segurança](./security-automation/)
-- [📚 Certification Studies / Estudos para Certificações](./certification-studies/)
+- [🔐 IAM (Identity & Access Management)](./identidade/)
+- [🛡️ Network Security / Segurança de Redes](./netsecurity/)
+- [🧪 Penetration Testing / Testes de Penetração](./testing/)
+- [🤖 Security Automation / Automação em Segurança](./secautomation/)
+- [📚 Certification Studies / Estudos para Certificações](./certification/)
 - [📜 Courses / Cursos](./courses/)
