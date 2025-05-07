@@ -6,9 +6,11 @@
 
 Sou um profissional migrando para a área de Cibersegurança com foco em IAM (Gerenciamento de Identidade e Acesso). Neste portfólio, organizo meus estudos, projetos práticos e anotações de cursos e certificações.
 
-## 🌐 About Me
+## Declaração Profissional
 
-I'm transitioning into the cybersecurity field, with a focus on Identity and Access Management (IAM). In this portfolio, I share my studies, hands-on projects, and notes from courses and certifications.
+Servidor público em transição de carreira para a área de Cibersegurança, com foco em Gerenciamento de Identidade e Acessos (IAM). Sou movido pela curiosidade e pela busca constante de soluções eficientes, o que me levou a aprofundar meus conhecimentos em Python, SQL, Linux, testes de penetração, IAM e segurança em nuvem.
+
+Como ex-militar das Forças Armadas, trago comigo valores sólidos como respeito, hierarquia, comprometimento e pontualidade. A mentalidade da caserna me ensinou resiliência — algo essencial na cibersegurança, onde manter a calma diante de crises é tão importante quanto encontrar a solução certa. Acredito que sempre existe uma saída, e minha missão é estar preparado para encontrá-la.
 
 ---
 
