@@ -2,6 +2,7 @@
 
 ## 📌 Certificações em Andamento / In Progress
 
-- Google Cybersecurity Professional Certificate (Coursera)
-- CompTIA Security+ (planejado)
-- Microsoft SC-300: Identity and Access Administrator (foco em IAM)
+- [Google Cybersecurity Professional Certificate](./google/)
+- [CompTIA Security+](./comptia/)
+- [Microsoft SC-300: Identity and Access Administrator](./microsoft/)
+
